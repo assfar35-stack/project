@@ -1,0 +1,6 @@
+Total files in src:
+3
+Total lines in all .py files in src:
+6
+Total words in config.py:
+1
